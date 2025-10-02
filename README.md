@@ -3,6 +3,7 @@ bash corredor.sh admin 4 lo mismo
 
 pip install matplotlib
 
+python -m pip install requests
 
 pip install fastapi
 pip install "uvicorn[standard]"
